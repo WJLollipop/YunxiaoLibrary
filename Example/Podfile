@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YunxiaoLibrary_Example' do
+  pod 'YunxiaoLibrary', :path => '../'
+
+  target 'YunxiaoLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
