@@ -1,0 +1,16 @@
+PODS:
+  - YunxiaoLibrary (0.1.0)
+
+DEPENDENCIES:
+  - YunxiaoLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  YunxiaoLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YunxiaoLibrary: 56e48ff69b51c1d2ad04ae267848a1ab83b67f86
+
+PODFILE CHECKSUM: 23545708ca5f1c821c8c840b65dc24a9c5d82258
+
+COCOAPODS: 1.10.1
